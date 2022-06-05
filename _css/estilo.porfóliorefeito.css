@@ -1,0 +1,54 @@
+
+aside h3{font-size: 70px;}
+body{background-color: rgb(55, 82, 82); max-width: 1600px;}
+a{font-size: 30px;}
+a:link{ top: 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(60, 87, 104);
+    padding:  30px;
+    font size: 80px;
+
+}
+
+ a:visited {
+    top: 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(48, 58, 65);
+    padding:  30px;
+     font size:80px;
+    	}
+a:hover {
+	text-decoration: underline;
+	color: rgb(177, 119, 119); top: 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(60, 87, 104);
+    padding:  30px;)
+    font size:80px;
+
+	}
+    h3{font-family: Arial, Helvetica, sans-serif;}
+    h1{font-family: Arial, Helvetica, sans-serif;}
+    .cabecalho{
+        width: 100pc;
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 1600;
+        background-color:rgb(228, 228, 228);
+         font-family: Arial, Helvetica, sans-serif;}
+  .cabecalho>div{flex: 1 1 200px; }
+   
+   .ideia{margin:80px: 100pc;flex-wrap: wrap;max-width:1600px;display:flex; background-color: rgb(194, 222, 244);color: ivory;font-family: Arial, Helvetica, sans-serif;}
+   .ideia>div{flex:1 1 200px;padding: 30px;margin: 10px;background-color: rgb(60, 87, 104);border-radius: 10px;}
+   .solucao{flex-wrap: wrap;max-width: 1600px;display:flex;}
+   .solucao>div{flex:1 1 1100px}
+   .main{display:flex;flex-wrap: wrap;max-width: 1600px;display: center;background-color: rgb(58, 57, 56);}
+   .informativo{display:flex;background-color: rgb(255, 255, 255);font-size: 20px}
+   .informativo>div{;font-size: 20px ;padding:30px;background-color: rgba(205, 211, 211, 0.945);margin: 5px;border-radius: 20px;}
+  
+ 
+    
+    
+
